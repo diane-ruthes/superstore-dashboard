@@ -201,9 +201,9 @@ def dsa_filtros_sidebar(df):
     st.sidebar.markdown("---")
 
     with st.sidebar.expander("🆘 Suporte / Fale conosco", expanded=False):
-        st.write("Se tiver dúvidas envie mensagem para suporte@datascienceacademy.com.br")
+        st.write("")
 
-    st.sidebar.caption("Dashboard desenvolvido no Mini-Projeto 10 do Curso Gratuito de Python da Data Science Academy.")
+    st.sidebar.caption("Dashboard interativo")
 
     return df_dsa_filtrado
 
