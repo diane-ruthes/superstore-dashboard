@@ -420,7 +420,6 @@ def datascienceacademy_mp10():
 
     # --- Cabeçalho ---
     st.title("🛒 Análise de Varejo Americano — Superstore")
-    st.subheader("Mini-Projeto 10 · Curso Gratuito de Python · Data Science Academy")
 
     st.markdown("""
     > **Sobre o dataset:** O *Superstore Sales* é um dataset público criado pela **Tableau** que simula
