@@ -1,0 +1,21 @@
+# Banco de dados gerado localmente
+*.db
+*.sqlite
+
+# Arquivos desnecessários
+*.zip
+__MACOSX/
+archive.zip
+
+# Ambientes virtuais
+.venv
+venv/
+env/
+
+# Python
+__pycache__/
+*.pyc
+
+# IDEs
+.vscode/
+.idea/ 
